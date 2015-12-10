@@ -1,2 +1,2 @@
-version:3.2.35
+version:3.2.36
 path: https://github.com/f-tools/forest/releases/download/test_release/forest.zip
